@@ -1,0 +1,54 @@
+nav ul li a
+
+nav ul li a{
+    display: inline;
+    text-decoration: none;
+    margin: 0 auto;
+    
+}
+
+nav ul li a:hover{
+
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+    margin-left: 15px;
+    font-size: 18px;
+    background-color: rgb(245, 151, 151);
+    padding: 15px;
+    border-radius: 10px;
+}
+#accion {
+    background-color: rgb(96, 132, 186);
+    border-radius: 10px;
+    border-radius: 10px;
+    color: white;
+
+}
+#adminNav ul li {
+    display: inline;
+    text-decoration: none;
+}
+#adminNav ul li {
+    display: inline;
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    font-size: 22px;
+    margin-left: 15px;
+}
+#header {
+    max-height: 120px;
+   
+}
+.tarjeta {
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+#nombreCliente {
+    background-color: #c8d6e5;
+
+
+}
